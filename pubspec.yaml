@@ -1,0 +1,9 @@
+name: nyet_hack
+description: A sample command-line game.
+version: 0.0.1
+
+environment:
+  sdk: ">=2.18.2 <3.0.0"
+
+dev_dependencies:
+  very_good_analysis: ^3.1.0
