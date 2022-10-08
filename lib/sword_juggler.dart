@@ -10,6 +10,7 @@ void start() {
 
   try {
     swordsJuggling = swordsJuggling! ~/ 1;
+    //int.parse('123dывы');
   } catch (exp) {
     print(exp);
   } finally {
